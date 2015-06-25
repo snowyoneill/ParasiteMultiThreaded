@@ -1,0 +1,179 @@
+Process Elapsed Time: 95261.762637(ms)
+
+# Cores: 8
+# Images: 140
+# Threads: 4
+# Images per thread: 35
+
+--------------- Flux Unsorted ---------------
+++++++++++++++++
+Array index 0: size = 66         compactness = 35.654596
+Array index 1: size = 62         compactness = 32.119396
+Array index 2: size = 56         compactness = 43.075971
+Array index 3: size = 52         compactness = 46.031635
+Array index 4: size = 66         compactness = 26.189166
+Array index 5: size = 68         compactness = 27.506069
+Array index 6: size = 68         compactness = 30.622325
+Array index 7: size = 72         compactness = 28.249731
+Array index 8: size = 54         compactness = 37.783577
+Array index 9: size = 54         compactness = 39.037904
+Array index 10: size = 66        compactness = 24.715810
+Array index 11: size = 66        compactness = 24.715810
+Array index 12: size = 50        compactness = 41.257247
+Array index 13: size = 64        compactness = 23.679895
+Array index 14: size = 68        compactness = 26.445500
+Array index 15: size = 64        compactness = 25.672155
+Array index 16: size = 52        compactness = 32.270556
+Array index 17: size = 68        compactness = 35.782131
+Array index 18: size = 52        compactness = 34.414714
+Array index 19: size = 66        compactness = 37.527352
+Array index 20: size = 54        compactness = 33.807888
+Array index 21: size = 58        compactness = 35.848230
+Array index 22: size = 66        compactness = 31.131673
+Array index 23: size = 56        compactness = 42.873621
+Array index 24: size = 38        compactness = 70.717493
+Array index 25: size = 68        compactness = 24.240671
+Array index 26: size = 64        compactness = 23.990696
+Array index 27: size = 66        compactness = 26.468156
+Array index 28: size = 70        compactness = 23.460242
+Array index 29: size = 72        compactness = 36.981201
+Array index 30: size = 54        compactness = 37.666223
+Array index 31: size = 70        compactness = 23.973826
+Array index 32: size = 64        compactness = 28.873288
+Array index 33: size = 60        compactness = 38.454073
+Array index 34: size = 68        compactness = 23.808739
+++++++++++++++++
+Array index 35: size = 70        compactness = 26.221645
+Array index 36: size = 60        compactness = 32.474703
+Array index 37: size = 60        compactness = 34.428239
+Array index 38: size = 68        compactness = 43.386014
+Array index 39: size = 68        compactness = 25.875000
+Array index 40: size = 54        compactness = 38.668020
+Array index 41: size = 68        compactness = 31.878396
+Array index 42: size = 66        compactness = 25.723530
+Array index 43: size = 46        compactness = 44.790178
+Array index 44: size = 70        compactness = 30.469224
+Array index 45: size = 68        compactness = 30.922024
+Array index 46: size = 64        compactness = 33.879772
+Array index 47: size = 70        compactness = 22.864089
+Array index 48: size = 66        compactness = 31.067599
+Array index 49: size = 68        compactness = 41.514363
+Array index 50: size = 70        compactness = 25.082301
+Array index 51: size = 56        compactness = 43.001445
+Array index 52: size = 70        compactness = 38.551702
+Array index 53: size = 70        compactness = 24.280196
+Array index 54: size = 70        compactness = 29.003922
+Array index 55: size = 72        compactness = 28.418034
+Array index 56: size = 58        compactness = 35.933457
+Array index 57: size = 72        compactness = 29.103448
+Array index 58: size = 70        compactness = 29.472416
+Array index 59: size = 62        compactness = 32.362852
+Array index 60: size = 70        compactness = 24.957560
+Array index 61: size = 58        compactness = 40.443883
+Array index 62: size = 60        compactness = 38.419817
+Array index 63: size = 70        compactness = 23.887251
+Array index 64: size = 68        compactness = 31.524346
+Array index 65: size = 66        compactness = 32.951339
+Array index 66: size = 72        compactness = 24.168768
+Array index 67: size = 72        compactness = 27.129842
+Array index 68: size = 70        compactness = 25.444206
+Array index 69: size = 66        compactness = 27.902759
+++++++++++++++++
+Array index 70: size = 66        compactness = 38.436699
+Array index 71: size = 70        compactness = 25.898077
+Array index 72: size = 68        compactness = 29.164557
+Array index 73: size = 70        compactness = 27.181131
+Array index 74: size = 70        compactness = 26.627304
+Array index 75: size = 68        compactness = 29.652369
+Array index 76: size = 68        compactness = 31.503658
+Array index 77: size = 66        compactness = 26.844136
+Array index 78: size = 56        compactness = 39.566327
+Array index 79: size = 68        compactness = 36.203029
+Array index 80: size = 66        compactness = 29.623842
+Array index 81: size = 60        compactness = 32.137892
+Array index 82: size = 70        compactness = 41.308766
+Array index 83: size = 68        compactness = 30.589351
+Array index 84: size = 70        compactness = 26.992835
+Array index 85: size = 70        compactness = 26.512199
+Array index 86: size = 70        compactness = 34.423822
+Array index 87: size = 62        compactness = 34.920415
+Array index 88: size = 68        compactness = 35.545745
+Array index 89: size = 70        compactness = 25.531749
+Array index 90: size = 68        compactness = 29.911374
+Array index 91: size = 54        compactness = 40.214413
+Array index 92: size = 72        compactness = 35.241191
+Array index 93: size = 70        compactness = 22.795227
+Array index 94: size = 66        compactness = 28.409667
+Array index 95: size = 46        compactness = 53.062598
+Array index 96: size = 68        compactness = 51.937625
+Array index 97: size = 70        compactness = 24.688650
+Array index 98: size = 60        compactness = 47.750904
+Array index 99: size = 64        compactness = 44.025651
+Array index 100: size = 70       compactness = 33.667597
+Array index 101: size = 70       compactness = 26.550988
+Array index 102: size = 68       compactness = 28.687049
+Array index 103: size = 70       compactness = 28.429757
+Array index 104: size = 70       compactness = 30.957560
+++++++++++++++++
+Array index 105: size = 68       compactness = 25.024679
+Array index 106: size = 64       compactness = 34.160757
+Array index 107: size = 56       compactness = 34.836590
+Array index 108: size = 70       compactness = 34.493213
+Array index 109: size = 70       compactness = 26.566535
+Array index 110: size = 56       compactness = 36.518472
+Array index 111: size = 64       compactness = 34.787051
+Array index 112: size = 72       compactness = 29.414572
+Array index 113: size = 70       compactness = 22.523787
+Array index 114: size = 68       compactness = 27.644728
+Array index 115: size = 68       compactness = 27.730122
+Array index 116: size = 72       compactness = 25.552311
+Array index 117: size = 62       compactness = 30.927792
+Array index 118: size = 66       compactness = 33.750567
+Array index 119: size = 70       compactness = 30.901877
+Array index 120: size = 72       compactness = 28.641000
+Array index 121: size = 64       compactness = 32.818493
+Array index 122: size = 66       compactness = 33.862717
+Array index 123: size = 70       compactness = 35.747902
+Array index 124: size = 72       compactness = 21.654540
+Array index 125: size = 66       compactness = 24.279447
+Array index 126: size = 66       compactness = 34.400790
+Array index 127: size = 58       compactness = 34.935338
+Array index 128: size = 68       compactness = 36.201750
+Array index 129: size = 72       compactness = 25.312240
+Array index 130: size = 70       compactness = 27.510275
+Array index 131: size = 68       compactness = 21.962466
+Array index 132: size = 70       compactness = 28.963033
+Array index 133: size = 72       compactness = 25.073951
+Array index 134: size = 72       compactness = 20.512195
+Array index 135: size = 70       compactness = 27.605875
+Array index 136: size = 58       compactness = 32.524547
+Array index 137: size = 64       compactness = 36.041020
+Array index 138: size = 70       compactness = 30.975741
+Array index 139: size = 70       compactness = 22.374569
+--------------- Calculate Flux ---------------
+fluctuation at 9
+fluctuation at 33
+fluctuation at 37
+fluctuation at 46
+fluctuation at 49
+fluctuation at 62
+fluctuation at 65
+fluctuation at 70
+fluctuation at 76
+fluctuation at 88
+fluctuation at 91
+fluctuation at 95
+fluctuation at 99
+fluctuation at 106
+fluctuation at 111
+fluctuation at 115
+fluctuation at 118
+fluctuation at 122
+fluctuation at 126
+fluctuation at 137
+number of fluctuations: 20
+lower: 66
+upper: 72
+Number of head projections: 20
+___________________
+PROGRAM COMPLETED
